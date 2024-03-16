@@ -1,4 +1,5 @@
 # Roll-the-block
+Assignment for Elements of Artificial Intelligence and Data Science Class, 1º Year, 2º Semester
 
 Roll The Block em Python
 
